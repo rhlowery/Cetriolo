@@ -8,14 +8,14 @@
       Versioning scheme:
       Major.Minor.Bugfix.NetBeansRelease (82 as the netbeans ide version)
     -->
-    <version>1.1.0.RELEASE82-SNAPSHOT</version>
+    <version>1.1.0.RELEASE125-SNAPSHOT</version>
     <packaging>nbm</packaging>
 
     <name>Cucumberbeans</name>
 
     <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <netbeans.version>RELEASE82</netbeans.version>
+        <netbeans.version>RELEASE125</netbeans.version>
     </properties>
 
     <repositories>
